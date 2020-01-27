@@ -5,9 +5,16 @@ header { background-color: rgb(48, 221, 221); /* pale blue */
 		padding: 5px; }
 h1 { margin-top: 10px; }
 p { font-family: serif; }
-section { border: 2px solid blue; }
-.subtitle { background-color: skyblue;
+section { border: 2px solid blue;
+	padding: 5px; }
+.highlight { background-color: skyblue;
 	font-family: sans-serif;
 	padding: 3px;
-	float: left; }
+	float: left;
+	margin: 10px; }
+a:hover { text-decoration-color: red; }
+.spacer { height: 50px }
+.list { position:aboslute;
+	left: 5px;
+	display: block; }
 
