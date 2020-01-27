@@ -1,0 +1,15 @@
+/* Style sheet for portfolio */
+html { font-family: serif; }
+header {background-color: rgb(48, 221, 221); /* pale blue */
+		text-align: center;
+		font-family: arial, sans-serif;
+		padding: 5px;}
+.block {display: block;}
+.header {background-color: skyblue;
+	display: block;
+	padding: 5px;
+	font-family: serif;}
+hr {color: blue;}
+a:hover { color: red; }
+p.offset { position: relative;
+	left: 10px; }
