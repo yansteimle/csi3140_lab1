@@ -6,4 +6,4 @@ This is a test repository for the labs.
 
 For lab1: there is a webpage for the course.
 
-For lab3: there is a folder.
+For lab3: there are two folders.
